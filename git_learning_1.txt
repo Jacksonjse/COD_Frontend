@@ -1,0 +1,260 @@
+    1  ls
+    2  cd DEsktop
+    3  cd Desktop
+    4  ls
+    5  cd ..
+    6  ls Desktop
+    7  cd Desktop
+    8  ls
+    9  cd everything/yoyo
+   10  ls
+   11  git clone https://github.com/dawn-boy/erebor
+   12  cd erebot
+   13  cd erebor
+   14  ls
+   15  cd 
+   16  ls
+   17  ls -a
+   18  mkdir .ssh
+   19  ls -a
+   20  cd .ssh
+   21  cd ..
+   22  cd .ssh
+   23  cp ../Downloads/id_cod .
+   24  ls
+   25  chmod 700 id_cod
+   26  cd ..
+   27  chmod 700 .ssh
+   28  ls -la
+   29  chmod 700 .ssh
+   30  ls -la
+   31  cd .ssh
+   32  ls -la
+   33  sudo chmod 700 id_cod
+   34  cd ..
+   35  cd Desktop/everything/yoyo
+   36  ls
+   37  cd erebor
+   38  cd ..
+   39  rm erebor
+   40  rmdir -r erebor
+   41  rm -r erebor
+   42  rm -rf erebor
+   43  ls
+   44  mkdir erebor
+   45  cd erebor
+   46  git init
+   47  git remote add erebor git@github.com:dawn-boy/erebor
+   48  git checkout -b frontend
+   49  git push
+   50  git push --set-upstream erebor frontend
+   51  git push --set-upstream erebor frontend
+   52  touch myself
+   53  git status
+   54  git add myself
+   55  git commit -m "This is my first commit" 
+   56  git config --global user.email "jacksonjess2205@gmail.com"
+   57  git config --global user.email "Jackson Jesse"
+   58  git commit -m "This is my first commit" 
+   59  git push
+   60   git push --set-upstream erebor frontend
+   61   git push --set-upstream erebor frontend
+   62  git pull
+   63  ssh-keygen
+   64  ls
+   65  cat hi.pub
+   66  rm hi hi.pub
+   67  ssh-keygen
+   68  rm id_cod id_cod.pub
+   69  ssh-keygen
+   70  ls
+   71  cat id_COD.pub
+   72  cd
+   73  cd .ssh
+   74  ls
+   75  rm *
+   76  ls
+   77  cp ../Desktop/everything/yoyo/erebor/id_COD .
+   78  ls
+   79  cd ../Desktop/everything/yoyo/erebor
+   80  ls
+   81  rm id_COD id_COD.pub
+   82  git status
+   83  git push
+   84  git push --set-upstream erebor frontend
+   85  cd 
+   86  ls Desktop
+   87  cd Desktop
+   88  history > git_history.txt
+   89  cd ../.ssh
+   90  ls
+   91  touch id_COD
+   92  ls
+   93  cat id_COD
+   94  cd ../Desktop/everything/yoyo/erebor
+   95  git push --set-upstream erebor frontend
+   96  cd 
+   97  cd .ssh
+   98  ls -la
+   99  sudo chmod 700 id_COD
+  100  sudo chmod 700 id_COD
+  101  cd .ssh
+  102  sudo chmod
+  103  sudo chmod 700 id_COD
+  104  cd .ssh
+  105  sudo chmod 700 id_COD
+  106  cd .ssh
+  107  chmod 700 id_COD
+  108  ls -la
+  109  Cygwi
+  110  Cygwin
+  111  cd 
+  112  rm -rf .ssh
+  113  git clone https://github.com/dawn-boy/Erebor
+  114  cd erebot
+  115  cd erebor
+  116  git checkout -b frontend
+  117  ls
+  118  touch myself
+  119  ls
+  120  git status
+  121  git add myself
+  122  git commit -m "this is my first message"
+  123  git push
+  124   git push --set-upstream origin frontend
+  125  git rm *
+  126  git rm -rf *
+  127  git status
+  128  git add .
+  129  git commit
+  130  git commit -m "tata"
+  131  git config --global user.name "Jackson Jesse"
+  132  git config --global user.email "jacksonjess2205@gmail.com"
+  133  git push
+  134  git config --global user.name
+  135  git config --global user.email
+  136  git config --global user.username
+  137  git config --global user.username "Jacksonjse"
+  138  git config --global user.username
+  139  git commit -m "lavde"
+  140  touch you
+  141  git add you
+  142  git commit -m "i touch you"
+  143  git push
+  144  cd 
+  145  ls
+  146  rm -rf erebor
+  147  cd Desktop/everything/yoyo
+  148  git clone https://github.com/dawn-boy/erebor
+  149  ls
+  150  rm -rf erebor
+  151  git clone https://github.com/dawn-boy/erebor
+  152  cd erebor
+  153  ls
+  154  git checkout frontend
+  155  ls
+  156  rm you
+  157  ls
+  158  git add .
+  159  git commit -m "simple changes"
+  160  git push
+  161  git checkout
+  162  rm frontend
+  163  cd ..
+  164  cd erebor
+  165  git checkout backend
+  166  rm frontend
+  167  git branch D frontend
+  168  git branch -b frontend
+  169  git checkout -b frontend
+  170  git branch -D frontend
+  171  git add .
+  172  git push
+  173  git checkout -b frontend
+  174  git push origin --delete frontend
+  175  git branch
+  176  git branch -r
+  177  git add
+  178  git commit -m "bye"
+  179  git push
+  180   git push --set-upstream origin frontend
+  181  git push origin --delete frontend
+  182  git branch
+  183  git add
+  184  git add
+  185  git commit -m "bye"
+  186  git push
+  187  git push origin --delete frontend
+  188  git branch
+  189  git add
+  190  git commit -m "bye"
+  191  git push
+  192  cd Desktop/everything/yoyo
+  193  git rebase -i HEAD~5
+  194  cd erebor
+  195  git rebase -i HEAD~5
+  196  git rebase -i HEAD~23
+  197  git rebase -i HEAD~19
+  198  git rebase -i HEAD~10
+  199  git rebase -i HEAD~5
+  200  git log --oneline
+  201  git pull
+  202  ls
+  203  cd Desktop/everything/yoyo/webdev
+  204  git branch
+  205  git checkout html
+  206  git rm $(git ls -f | grep -v '\.html')
+  207  git rm $(git ls-files | grep -v '\.html')
+  208  ls
+  209  git add index.html
+  210  git commit -m "removed all css files from html branch"
+  211  git push origin html
+  212  git checkout master
+  213  git checkout html
+  214  git checkout master --index.html
+  215  ls
+  216  git checkout master
+  217  ls
+  218  git checkout html
+  219  git checkout master --index.html
+  220  ls
+  221  git checkout master -- index.html
+  222  ls
+  223  git add .
+  224  git commit -m "copied index.html from the master branch to this html branch using commands"
+  225  git push
+  226  cd 
+  227  cd Desktop/everything/yoyo
+  228  mkdir COD_Frontend
+  229  cd COD_frontend
+  230  ls
+  231  git init
+  232  echo "# This repo is to write code for the COD website for mindcraft(frontend)" > readme.md
+  233  touch index.html
+  234  touch styles.css
+  235  git add .
+  236  git commit -m "first commit"
+  237  git remote add origin https://github.com/Jacksonjse/COD_Frontend
+  238  git push origin master
+  239  cat readme.md
+  240  touch readme.md
+  241  ls
+  242  vim readme.md
+  243  git add readme.md
+  244  git commit -m "updated readme"
+  245  git push origin master
+  246  git checkout -b HTML
+  247  git branch master -- index.html
+  248  git checkout master -- index.html
+  249  ls
+  250  git rm readme.md styles.css
+  251  ls
+  252  git checkout -b CSS
+  253  ls
+  254  git checkout master -- $(grep -v '\.css')
+  255  git checkout master -- $(grep '\.css')
+  256  git checkout master -- styles.css
+  257  ls
+  258  git rm $(grep -v "\.css")
+  259  git rm $(ls | grep -v "\.css")
+  260  history > git_learning_1.txt
